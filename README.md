@@ -1,6 +1,6 @@
 # weather-app
 
-Basic weather app using HTML, CSS and JavaScript
+Basic weather app using HTML, CSS and JavaScript API call
 
 ## Results
 
